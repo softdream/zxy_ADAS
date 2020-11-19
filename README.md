@@ -36,7 +36,7 @@
 #### 2.1 下载 arm-linux-gcc 压缩包
 
 #### 2.2 将压缩包解压到文件夹中
-```sudo tar-zxvf arm-linux-gcc-4.4.3.tar.gz-c/```<br>
+```sudo tar -zxvf arm-linux-gcc-4.4.3.tar.gz-c/```<br>
 
 #### 2.3 在 ```/usr/local``` 目录下新建一个文件夹 ```/arm``` 用来保存所有库文件
  ```cd /usr/local```<br>
@@ -134,7 +134,7 @@ https://opencv.org/releases/ <br>
 #### 2.1 下载源码
 http://eigen.tuxfamily.org/index.php?title=Main_Page <br>
 #### 2.2 解压缩
-``` tar zxvf eigen-3.3.8.tar.gz```<br>
+``` tar -zxvf eigen-3.3.8.tar.gz```<br>
 #### 2.3 编译
 ```cd eigen-3.3.8```<br>
 ```mkdir build```<br>
